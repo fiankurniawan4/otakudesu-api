@@ -6,7 +6,7 @@ import {
   getAnimeOnGoing,
   getGenreList,
   getJadwalAnime,
-} from "../controllers/apiControllers.js";
+} from "../controllers/apiControllers.cjs";
 
 const router = express.Router();
 
