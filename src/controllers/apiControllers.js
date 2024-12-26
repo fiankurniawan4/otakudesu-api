@@ -1,5 +1,5 @@
 import { load } from "cheerio";
-import { fetchPage } from "../utils/fetchPage.cjs";
+import { fetchPage } from "../utils/fetchPage.js";
 
 export const getAnimeOnGoing = async (req, res) => {
   try {
