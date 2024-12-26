@@ -15,6 +15,10 @@ https://otakudesu.cloud/
 - **Genre List**
 - **Anime Search**
 
+### Upcoming Fitur
+
+- **Nonton Anime**
+
 ## Alat2nya
 
 - **Express.js**
@@ -54,6 +58,8 @@ npm run start
 ## Routes
 
 URL API:
+
+(Upcoming URL Vercel for access the API online)
 
 ## Endpoint List
 
