@@ -44,13 +44,11 @@ npm run start
 
 ```json
 {
-        {
-            "title":"Sengoku Youko: Senma Konton-hen",
-            "updateDate":"26 Des",
-            "updateDay":"Kamis",
-            "image":"https://otakudesu.cloud/wp-content/uploads/2024/07/Sengoku-Youko-Senam-Konton.jpg"
-        },
-}
+    "title":"Sengoku Youko: Senma Konton-hen",
+    "updateDate":"26 Des",
+    "updateDay":"Kamis",
+    "image":"https://otakudesu.cloud/wp-content/uploads/2024/07/Sengoku-Youko-Senam-Konton.jpg"
+},
 ```
 
 ## Routes
