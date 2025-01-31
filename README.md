@@ -59,60 +59,60 @@ npm run start
 
 URL API:
 
-https://otakudesu-api-eight.vercel.app/api/anime
+https://otakudesu-api-eight.vercel.app/api/v1/anime
 
 ## Endpoint List
 
 ### 1. Anime Home
 
-- **GET** `/api/anime`
+- **GET** `/api/v1/anime`
 
   Get list Anime terbaru.
 
   **Example:**  
-  `https://otakudesu-api-eight.vercel.app/api/anime`
+  `https://otakudesu-api-eight.vercel.app/api/v1/anime`
 
 ### 2. Jadwal Anime
 
-- **GET** `/api/anime/jadwal`
+- **GET** `/api/v1/anime/jadwal`
 
   Get list jadwal anime
 
   **Example:**  
-  `https://otakudesu-api-eight.vercel.app/api/anime/jadwal`
+  `https://otakudesu-api-eight.vercel.app/api/v1/anime/jadwal`
 
 ### 3. Anime Ongoing
 
-- **GET** `/api/anime/:page`
+- **GET** `/api/v1/anime/:page`
 
   Get list anime ongoing sesuai id `:page`
 
   **Example:**  
-  `https://otakudesu-api-eight.vercel.app/api/anime/1`
+  `https://otakudesu-api-eight.vercel.app/api/v1/anime/1`
 
 ### 4. Genre List
 
-- **GET** `/api/anime/genre`
+- **GET** `/api/v1/anime/genre`
 
   Get list genre
 
   **Example:**  
-  `https://otakudesu-api-eight.vercel.app/api/anime/genre`
+  `https://otakudesu-api-eight.vercel.app/api/v1/anime/genre`
 
 ### 5. Genre List by Genre
 
-- **GET** `/api/anime/genre/:genre`
+- **GET** `/api/v1/anime/genre/:genre`
 
   Get list genre by `:genre`
 
   **Example:**  
-  `https://otakudesu-api-eight.vercel.app/api/anime/genre/action`
+  `https://otakudesu-api-eight.vercel.app/api/v1/anime/genre/action`
 
 ### 6. Anime Search
 
-- **GET** `/api/anime/search/:name`
+- **GET** `/api/v1/anime/search/:name`
 
   Get anime by search `:name`
 
   **Example:**  
-  `https://otakudesu-api-eight.vercel.app/api/anime/search/maou`
+  `https://otakudesu-api-eight.vercel.app/api/v1/anime/search/maou`
