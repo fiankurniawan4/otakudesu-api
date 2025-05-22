@@ -17,6 +17,7 @@ https://otakudesu.cloud/
 
 ### Upcoming Fitur
 
+- **Detail Anime**
 - **Nonton Anime**
 
 ## Alat2nya
