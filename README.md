@@ -26,7 +26,7 @@ https://otakudesu.cloud/
 - **Node.js**
 - **Axios**
 - **Cheerio**
-- **Vercel (Comingsoon)**
+- **Vercel (Dibawah)**
 
 ## Installasi
 
