@@ -1,4 +1,4 @@
-# Otakudesu API
+# Otakudesu API (DEPRECTED NEW LINK OTAKUDESU | NEXT UPDATE)
 
 Rest API Otakudesu Bahasa Indonesia
 
